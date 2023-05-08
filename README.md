@@ -19,5 +19,3 @@
 * PEPSI
 * ORANGE JUCE
 
-![](https://drive.google.com/file/d/1MoK-8di-9KR_paV4PXhVT2O9ZJRwQ6cB/view?usp=sharing) <br>
-<br> 
