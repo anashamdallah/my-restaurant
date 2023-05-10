@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+.body .main{
+    background-color: #7C96AB;
+    min-height: calc(100vh - 60px);
+
+}
+.body .header {
+    background-color: #BFCCB5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.body .header ul {
+display: flex;
+gap: 25px;
+}
+
+.body .header ul li{
+    list-style: none;
+}
+
+.body .header ul li a{
+    text-decoration: none;
+}
+
+.body .main  .menu img {   
+     width: 500px;
+     height: 300px;
+ 
+    /* margin-left: 865px;*/
+}
+
+.body .main .menu{
+    display: flex;
+    justify-content:space-between;
+    gap: 80px;
+   /* padding-top: 20px;*/
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body .main .menu ul {
+    padding-top: 70px;
+    padding-left: 60px;
+}
+
+.body .main .menu ul li {
+    padding-top: 20px;
+}
+
+.body .main .del .form {
+    justify-content: left;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    
+}
+
+.body .main .del .form h3 {
+    padding-bottom: 20px;
+}
+.body .main .del .form label{
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right:10px;
+    padding-top: 20px;
+}
+.body .main .del .form input[type=submit]:hover{
+    cursor: pointer;
+}
+
+.footer{
+    text-align: center;
+    align-items: center;
+    background-color: #B7B7B7;
+}
